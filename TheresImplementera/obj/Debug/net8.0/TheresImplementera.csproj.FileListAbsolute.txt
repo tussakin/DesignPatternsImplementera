@@ -1,0 +1,14 @@
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/bin/Debug/net8.0/TheresImplementera
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/bin/Debug/net8.0/TheresImplementera.deps.json
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/bin/Debug/net8.0/TheresImplementera.runtimeconfig.json
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/bin/Debug/net8.0/TheresImplementera.dll
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/bin/Debug/net8.0/TheresImplementera.pdb
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/obj/Debug/net8.0/TheresImplementera.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/obj/Debug/net8.0/TheresImplementera.AssemblyInfoInputs.cache
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/obj/Debug/net8.0/TheresImplementera.AssemblyInfo.cs
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/obj/Debug/net8.0/TheresImplementera.csproj.CoreCompileInputs.cache
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/obj/Debug/net8.0/TheresImplementera.dll
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/obj/Debug/net8.0/refint/TheresImplementera.dll
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/obj/Debug/net8.0/TheresImplementera.pdb
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/obj/Debug/net8.0/TheresImplementera.genruntimeconfig.cache
+/Users/tess/Documents/Designpatterns/TheresImplementera/TheresImplementera/obj/Debug/net8.0/ref/TheresImplementera.dll
